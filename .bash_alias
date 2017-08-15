@@ -1,0 +1,2 @@
+alias gits="git status"
+alias dev="cd ~/dev"
