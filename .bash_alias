@@ -1,2 +1,5 @@
 alias gits="git status"
 alias dev="cd ~/dev"
+alias sps="spotify status"
+alias spl="spotify play"
+alias spp="spotify pause"
