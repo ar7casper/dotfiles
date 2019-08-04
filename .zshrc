@@ -118,3 +118,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loca
 
 export NVM_DIR="$HOME/.nvm"
   . "/usr/local/opt/nvm/nvm.sh"
+
+# fnm
+export PATH=$HOME/.fnm:$PATH
+eval "`fnm env --multi`"
